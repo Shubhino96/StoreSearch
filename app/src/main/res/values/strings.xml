@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Store Search</string>
+    <string-array name="storetype">
+        <item>Grocery</item>
+        <item>Furnitures</item>
+        <item>Electronics</item>
+        <item>Florists</item>
+    </string-array>
+</resources>
