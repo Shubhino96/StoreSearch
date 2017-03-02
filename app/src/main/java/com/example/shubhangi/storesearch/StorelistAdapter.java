@@ -18,7 +18,7 @@ public class StorelistAdapter extends ArrayAdapter<Storelist> {
     public StorelistAdapter(Context context, int resource, List<Storelist> objects) {
         super(context, resource, objects);
     }
-    public View getview(int position, View convertView, ViewGroup parent)
+    public View getView(int position, View convertView, ViewGroup parent)
     {
         View listItemView = convertView;
         if (listItemView == null) {
